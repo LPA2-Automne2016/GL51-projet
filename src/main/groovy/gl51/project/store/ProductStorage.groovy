@@ -21,7 +21,7 @@ interface ProductStorage {
      * @param id
      * @return a product
      */
-    Product getByID(String id)
+    Product getById(String id)
 
     /**
      * deletes a product by its id
