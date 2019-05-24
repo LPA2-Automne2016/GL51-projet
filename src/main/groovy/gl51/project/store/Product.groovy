@@ -2,7 +2,7 @@ package gl51.project.store
 
 import groovy.transform.EqualsAndHashCode
 
-@EqualsAndHashCode
+@EqualsAndHashCode(excludes = ['id'])
 class Product {
     String id
     String name
