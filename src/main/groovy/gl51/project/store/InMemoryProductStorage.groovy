@@ -1,7 +1,6 @@
 package gl51.project.store
 
 import groovy.transform.CompileStatic
-
 import javax.inject.Singleton
 
 @CompileStatic

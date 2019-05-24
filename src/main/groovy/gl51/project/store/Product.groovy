@@ -1,6 +1,5 @@
 package gl51.project.store
 
-
 import groovy.transform.EqualsAndHashCode
 
 @EqualsAndHashCode(excludes = ['id'])
